@@ -32,3 +32,7 @@ Determination of most profitable tariff for telecom operator
 Используемые навыки:
 Pandas, Numpy, Scipy, Статистический анализ данных
 
+Вывод:
+
+
+
